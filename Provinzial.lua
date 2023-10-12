@@ -135,3 +135,5 @@ end
 function EndSession ()
     connection:post("https://kundenportal.provinzial.com/anmeldung/logout", "")
 end
+
+-- SIGNATURE: MC0CFA3ZYgD9uEkPNd3F4NpV9BUdVGZ/AhUAjvJTdpXltpKMdZB9cQhY5N1pZKI=
